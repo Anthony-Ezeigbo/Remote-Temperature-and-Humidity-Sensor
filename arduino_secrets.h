@@ -1,0 +1,3 @@
+#define SECRET_SSID "Infinix HOT 8"
+#define SECRET_PASSWORD "mummy123"
+#define SECRET_API_KEY "WB2G1FTB9U8UP1ZW"
